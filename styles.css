@@ -27,6 +27,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 
 }
 
@@ -165,6 +166,9 @@ ul{
     background: linear-gradient(var(--light-slate-blue-BG), var(--light-royal-blue-BG));
 }
 
+.attribution {
+    margin: 2rem 0;
+}
 
 @media screen and (min-width: 768px){
     .container {
