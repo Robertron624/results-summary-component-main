@@ -27,12 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/72587880/221681101-fc6ba7cf-f7d8-4223-a4ca-a6058e4f8e83.png)
+
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/Robertron624/results-summary-component-main)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Robertron624/results-summary-component-main)
+- Live Site URL: [Live site URL](https://ornate-cocada-4cac7f.netlify.app/)
 
 ## My process
 
